@@ -1,0 +1,32 @@
+.back {
+  background-color: #b0b0b0;
+  color: white;
+  margin: 20px;
+}
+.back:hover {
+  background-color: darkgray;
+}
+.main {
+  background-color: #ededed;
+}
+
+.projectinfo {
+  display: flex;
+}
+
+.cancel {
+  background-color: red;
+  margin-left: 20px;
+}
+
+.btn {
+  border: 1px solid #d7d7d7;
+  background-color: white;
+  display: flex;
+  justify-content: flex-end;
+  width: 80vw;
+  margin: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}

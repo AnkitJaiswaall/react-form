@@ -1,0 +1,35 @@
+label {
+  display: block;
+}
+.name {
+  display: flex;
+  justify-content: space-around;
+}
+.lbl {
+  margin-left: 0px;
+}
+.type {
+  display: flex;
+  justify-content: space-around;
+}
+.projectDetails {
+  border: 1px solid #d7d7d7;
+  background-color: #eaeaea;
+  margin: 20px;
+}
+.heading {
+  background-color: white;
+  margin-top: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+select {
+  width: 233px;
+  height: 35px;
+  margin-top: 10px;
+}

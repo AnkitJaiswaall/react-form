@@ -1,0 +1,22 @@
+.container {
+  width: 80vw;
+  border: 1px solid #d7d7d7;
+  margin: 20px;
+  background-color: #eaeaea;
+}
+
+.heading {
+  background-color: white;
+  margin-top: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.country {
+  padding: 20px;
+  padding-top: 0px;
+}

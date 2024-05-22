@@ -1,0 +1,22 @@
+.surveyDetails {
+  border: 1px solid #d7d7d7;
+  background-color: #eaeaea;
+  width: 250px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.heading {
+  background-color: white;
+  margin-top: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+label {
+  margin-top: 20px;
+  margin-left: 20px;
+}
